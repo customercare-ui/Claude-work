@@ -43,22 +43,22 @@ html = f"""<!doctype html><html><head><meta charset="utf-8"><title>Pride Epoxy S
 body {{ margin:0; font-family: 'Segoe UI', Arial, sans-serif; color:#1d2433; font-size:11.5px }}
 .page {{ width:210mm; min-height:297mm; padding:14mm 15mm 12mm; position:relative; page-break-after:always }}
 .page:last-child {{ page-break-after:auto }}
-header {{ display:flex; justify-content:space-between; align-items:flex-end; border-bottom:3px solid #c8102e; padding-bottom:8px }}
-.brand {{ font-size:26px; font-weight:800; letter-spacing:1px; color:#c8102e }}
+header {{ display:flex; justify-content:space-between; align-items:flex-end; border-bottom:3px solid #1f3fa8; padding-bottom:8px }}
+.brand {{ font-size:26px; font-weight:800; letter-spacing:1px; color:#1f3fa8 }}
 .brand small {{ display:block; font-size:10px; color:#5a6272; letter-spacing:2px; font-weight:600 }}
 .meta {{ text-align:right; color:#5a6272; font-size:10.5px; line-height:1.6 }}
 .hero {{ display:flex; gap:18px; margin:16px 0 12px; align-items:center;
-  background:linear-gradient(120deg,#1d2433,#3a1520); color:#fff; border-radius:10px; padding:16px 20px }}
-.hero img, .ph {{ width:150px; height:150px; object-fit:contain; background:#fff; border-radius:8px; flex:none }}
+  background:linear-gradient(120deg,#0d1b4f,#1f3fa8); color:#fff; border-radius:10px; padding:16px 20px }}
+.hero img, .ph {{ width:190px; height:190px; object-fit:cover; background:#fff; border-radius:8px; flex:none }}
 .ph small {{ display:block; font-weight:500 }}
-.ph {{ display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; color:#c8102e;
-  font-weight:800; border:2px dashed #c8102e }}
+.ph {{ display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; color:#1f3fa8;
+  font-weight:800; border:2px dashed #1f3fa8 }}
 .hero h1 {{ margin:0 0 4px; font-size:28px; letter-spacing:.5px }}
-.hero p {{ margin:0; color:#f0c9cf; font-size:13px }}
+.hero p {{ margin:0; color:#d6defa; font-size:13px }}
 .hero .tag {{ display:inline-block; margin-top:10px; background:#ffd400; color:#1d2433; font-weight:800;
   padding:5px 12px; border-radius:20px; font-size:13px }}
 p.body {{ line-height:1.6; margin:8px 0 }}
-h2 {{ font-size:13px; color:#c8102e; text-transform:uppercase; letter-spacing:1px; margin:16px 0 6px }}
+h2 {{ font-size:13px; color:#1f3fa8; text-transform:uppercase; letter-spacing:1px; margin:16px 0 6px }}
 table {{ width:100%; border-collapse:collapse; font-size:11px }}
 th, td {{ border:1px solid #d5d9e0; padding:5px 6px; text-align:right }}
 thead th {{ background:#1d2433; color:#fff; text-align:center; font-weight:600 }}
@@ -68,8 +68,8 @@ tbody th {{ text-align:left; background:#f5f6f8 }}
 .slabs {{ display:grid; grid-template-columns:1fr; gap:8px }}
 .slab {{ border:1px solid #d5d9e0; border-radius:8px; overflow:hidden }}
 .slab table th, .slab table td {{ border-left:0; border-right:0 }}
-.sh {{ display:flex; justify-content:space-between; background:#c8102e; color:#fff; padding:6px 10px; font-weight:600 }}
-.sh b {{ background:#fff; color:#c8102e; border-radius:12px; padding:0 8px }}
+.sh {{ display:flex; justify-content:space-between; background:#1f3fa8; color:#fff; padding:6px 10px; font-weight:600 }}
+.sh b {{ background:#fff; color:#1f3fa8; border-radius:12px; padding:0 8px }}
 ol {{ margin:4px 0 0 16px; padding:0; line-height:1.6 }}
 .sign {{ display:flex; justify-content:space-between; margin-top:26px }}
 .sign div {{ border-top:1px solid #1d2433; padding-top:4px; width:180px; text-align:center; font-weight:600 }}
