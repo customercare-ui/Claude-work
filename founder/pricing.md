@@ -21,6 +21,8 @@ Why ₹89,000:
 
 These runs hold the percentage-based costs (dealer fee, guarantee reserve, payment fees) at their ₹78,000 values. At ₹89,000 they rise by about ₹1,280 per job. `founder/numbers.json` is updated for that, and the CFO re-runs with it.
 
+> **Update:** this table was run before `/founder-ops` cut capacity to 20 jobs a month and added EPF. The current numbers are in `founder/cfo.md`. At ₹95,000 the year 1 result is now −₹3.56 lakh. Only ₹95,000 combined with a lower crew rate and the real paint cost turns year 1 positive.
+
 ## 2. The ladder
 
 Four of the 20 buyers live in flats, where the building association owns the exterior. All four said half of the package was useless to them. Two others wanted only part of the house done. One package cannot serve them all.

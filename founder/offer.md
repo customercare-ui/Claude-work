@@ -67,14 +67,14 @@ Value to the buyer runs from 1 (low) to 5 (high). Cost to deliver runs from 1 (c
 - **Bonus 3: One Person.** A named Turbolux coordinator and daily WhatsApp photos. *Kills: "a subcontractor and nobody answers", "I'm abroad".*
 - **The guarantee.** 3 years against bubbling and peeling on every wall Turbolux paints: repainted free, paint and labour. Damp found at the site visit is recorded with a moisture reading. It is either treated (Damp Shield) or excluded in writing before work starts, so there are no surprises later. A free check visit after the next monsoon is included.
 - **Urgency and scarcity, both true:**
-  - Crews are limited: 10 certified crews, about 35 homes a month at most.
+  - Crews are limited: 10 certified crews, about 20 homes a month at most (`founder/ops.md`).
   - Founding homes: the first 10 bookings before 31 January 2027 get ₹10,000 off in return for allowing two visits from future buyers.
 - **The name:** **Turbolux On-Date Repaint.** It names the outcome buyers said they care about, a job finished on the date.
 
 **What the stack adds to the CFO's numbers:**
 - About ₹1,600 more variable cost per job (late-day credit + check visit).
 - At ₹89,000, each job now leaves **₹14,309 (19.0%)** after its own costs.
-- Break-even is **13.8 jobs a month**.
+- Break-even is **14.3 jobs a month** (after the ops update: EPF added, 10 crews, 20 jobs a month capacity).
 - Source: `unit_economics.py` on the updated `founder/numbers.json`.
 
 ## 4. Value equation, before → after (1 to 10)

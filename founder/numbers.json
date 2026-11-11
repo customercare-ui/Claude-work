@@ -68,6 +68,10 @@
     {
       "label": "Liability and workmen insurance (ESTIMATE)",
       "cost": 5000
+    },
+    {
+      "label": "Employer EPF on 4 staff, 12% x Rs 15,000 x 4 (pending accountant; founder/ops.md)",
+      "cost": 7200
     }
   ],
   "startup": [
@@ -101,20 +105,20 @@
     }
   ],
   "days_per_month": 1,
-  "capacity_per_day": 35,
-  "plan_per_day": 30,
+  "capacity_per_day": 20,
+  "plan_per_day": 20,
   "ramp_per_day": [
     3,
     6,
     10,
     14,
-    10,
+    8,
     2,
     2,
     3,
     10,
-    15,
-    20,
-    24
+    12,
+    18,
+    20
   ]
 }

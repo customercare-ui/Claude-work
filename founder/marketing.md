@@ -123,7 +123,7 @@ After launch: **₹40,000/month** (Google ₹22k, Meta ₹13k, content ₹5k). P
 - Each job leaves **₹14,309** after its own costs, dealer fee included (`cfo.md`).
 - Each buyer buys **1** job (the panel's buyers average 1.0 purchases in the first month; a repaint is a once-in-years purchase).
 - So the hard ceiling is **₹14,309 × 1 = ₹14,309** per customer. Spending that leaves nothing for the team.
-- **Target: ≤ ₹4,000 per booked job.** That is ≤ ₹600 per site visit at 15% conversion from visit to booking. It keeps about ₹10,000 per job toward the ₹1.97 lakh monthly fixed costs.
+- **Target: ≤ ₹4,000 per booked job.** That is ≤ ₹600 per site visit at 15% conversion from visit to booking. It keeps about ₹10,000 per job toward the ₹2.04 lakh monthly fixed costs.
 
 **The three numbers to watch weekly**
 
