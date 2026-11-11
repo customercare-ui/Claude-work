@@ -88,4 +88,31 @@ Value to the buyer runs from 1 (low) to 5 (high). Cost to deliver runs from 1 (c
 
 ## 5. Re-test (same 20 buyers, seed 2611)
 
-*Filled in after the re-test: see below.*
+The old pitch is in `founder/pitch-v1.md` and its panel in `founder/panel-v1/`. The new pitch is in `founder/pitch.md` and its panel in `founder/panel/`.
+
+| | v1 (₹78,000, plain promise) | v2 (On-Date Repaint, ₹89,000 / ₹59,000) |
+| --- | :-: | :-: |
+| **Buy** | **1 of 20 (5%)** | **4 of 20 (20%)** |
+| Pass: trust | 10 | 5 |
+| Pass: habit (family painter) | 4 | 6 |
+| Pass: price | 1 | 3 |
+| Pass: need (only some walls) | 2 | 2 |
+| Pass: timing | 2 | 0 |
+
+**Who flipped to yes:**
+- **P001** (three quotes, wedding coming): "The signed finish date and paying the last 70% only after she checks the work answer her main fear."
+- **P010** (zero-hassle, bubbling wall): wants the written price, the signed date and one coordinator.
+- **P019** (owner in Dubai, parents at home): won by the named coordinator, daily WhatsApp photos and 70% held back.
+
+**What dropped:** trust objections halved. The written final price, paying after checking the work and the named coordinator did most of that work.
+
+**What didn't move, and what to do about it:**
+
+1. **The family painter (6 buyers, now the biggest group).** No offer feature moves them. Two said they would switch if their own painter recommended Turbolux or was unavailable. That points to the board's crew model: certify existing local painters as Turbolux crews (`founder/ops.md`). It is not an offer problem.
+2. **"₹2,000 a day is too small."** Five buyers said it, including two of the four who bought. Their real fear is a half-finished house before a function. Next version: raise the credit to ₹3,000 a day, and promise that "if the crew misses two days in a row, a second crew is sent within 48 hours". Cost both in the CFO before promising them.
+3. **The guarantee doesn't cover damp (5 buyers).** The Damp Shield rung exists for exactly this. It needs costing so it can be priced and offered.
+4. **No proof in Kochi yet (5 buyers).** Only real finished homes fix this. The founding-homes offer is the start. Until then, the panel's buy rate is an upper bound.
+5. **Price at ₹89,000 (3 buyers).** All three are "three quotes" or budget-tight buyers. The per-sq-ft breakdown lets them compare. Don't cut the price, because the margin can't take it (`founder/pricing.md`).
+6. **Partial jobs (2 buyers).** These buyers want only some walls painted. Still not offered; revisit once cost per room is known.
+
+**Verdict on the offer:** it moved the buy rate from 5% to 20%, mostly by answering trust. The remaining no's are about habit and proof, which marketing and ops have to answer, not more bonuses. These are simulated buyers. Confirm with the founding homes.
