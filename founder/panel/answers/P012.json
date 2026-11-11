@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "₹78,000 is close to a month of my salary, and our local painter would do the inside and outside of a 2BHK for much less. I'd ask Turbolux for a quote alongside two others, but I wouldn't book a fixed price I can't bargain on or check per square foot.",
+  "objection": "One fixed price with no per-square-foot breakdown means I can't compare it with other quotes or haggle, and I suspect I'm paying extra for the brand name.",
+  "would_change_my_mind": "A per-square-foot quote from the site visit that comes in around ₹60,000, with the finish date and the peeling guarantee in writing, so my parents don't have to deal with the crew while I'm in Dubai.",
+  "price_too_cheap": 30000,
+  "price_cheap": 45000,
+  "price_expensive": 60000,
+  "price_too_expensive": 75000
+}

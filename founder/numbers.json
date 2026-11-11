@@ -1,0 +1,112 @@
+{
+  "business": "Turbolux Home Finish, 2BHK paint + painter package, Kochi pilot (all amounts in Indian rupees; volumes are PER MONTH: days_per_month is 1, so every 'a day' in the tool's output means 'a month')",
+  "unit": "job",
+  "price": 75423.73,
+  "variable": [
+    {
+      "label": "Paint, primer and putty at Turbolux's own cost (ESTIMATE: 50% of ~Rs 26,750 retail for ~84 L + 40 kg)",
+      "cost": 13375
+    },
+    {
+      "label": "Painter crew, piece rate (interior 2,560 sq ft x Rs 9.5 + exterior 1,000 sq ft x Rs 12; public Kochi labour-only rates)",
+      "cost": 36320
+    },
+    {
+      "label": "Dealer referral fee, 4% of Rs 89,000 (ESTIMATE, a policy choice)",
+      "cost": 3560
+    },
+    {
+      "label": "Guarantee reserve, 3% of Rs 89,000 (ESTIMATE, claim rate unknown)",
+      "cost": 2670
+    },
+    {
+      "label": "Masking, floor covers, clean-up consumables (ESTIMATE)",
+      "cost": 1500
+    },
+    {
+      "label": "Site visit and quality-check travel (ESTIMATE)",
+      "cost": 1200
+    },
+    {
+      "label": "Payment fees, mostly UPI, ~1% (ESTIMATE)",
+      "cost": 890
+    }
+  ],
+  "fixed_monthly": [
+    {
+      "label": "Service manager (ESTIMATE)",
+      "cost": 55000
+    },
+    {
+      "label": "Two site supervisors for prep and quality checks (ESTIMATE)",
+      "cost": 60000
+    },
+    {
+      "label": "Booking and customer-care coordinator (ESTIMATE)",
+      "cost": 22000
+    },
+    {
+      "label": "Booking software, CRM, phone (ESTIMATE)",
+      "cost": 5000
+    },
+    {
+      "label": "Supervisor travel (ESTIMATE)",
+      "cost": 10000
+    },
+    {
+      "label": "Always-on local ads, Google and Meta (ESTIMATE)",
+      "cost": 40000
+    },
+    {
+      "label": "Liability and workmen insurance (ESTIMATE)",
+      "cost": 5000
+    }
+  ],
+  "startup": [
+    {
+      "label": "Crew training and certification, 10 crews (ESTIMATE)",
+      "cost": 150000
+    },
+    {
+      "label": "Moisture meters, branded covers and site kits for 10 crews (ESTIMATE)",
+      "cost": 150000
+    },
+    {
+      "label": "Booking page on turboluxpaints.com and CRM set-up (ESTIMATE)",
+      "cost": 100000
+    },
+    {
+      "label": "Launch marketing, four weeks before opening (ESTIMATE)",
+      "cost": 200000
+    },
+    {
+      "label": "Uniforms, site boards, branding (ESTIMATE)",
+      "cost": 50000
+    },
+    {
+      "label": "Guarantee terms and customer contract, legal review (ESTIMATE)",
+      "cost": 50000
+    },
+    {
+      "label": "Pilot show-home discount budget (ESTIMATE)",
+      "cost": 100000
+    }
+  ],
+  "days_per_month": 1,
+  "capacity_per_day": 35,
+  "plan_per_day": 30,
+  "ramp_per_day": [
+    3,
+    6,
+    10,
+    14,
+    10,
+    2,
+    2,
+    3,
+    10,
+    15,
+    20,
+    24
+  ]
+}

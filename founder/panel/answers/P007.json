@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Our painter has done this house for years and my parents know him and trust him in the house while I am in Dubai. I will not hand the job to a crew they have never met because of one advert, and ₹78,000 is not small money for us.",
+  "objection": "It says the work is guaranteed against bubbling and peeling but not for how long or what happens if it does. With me abroad and my parents alone, I need to know who comes back to fix it and at whose cost.",
+  "would_change_my_mind": "A written guarantee with a clear term, say five years, that covers redoing the affected walls at no cost, plus a price that is not much above what our own painter quotes.",
+  "price_too_cheap": 35000,
+  "price_cheap": 55000,
+  "price_expensive": 75000,
+  "price_too_expensive": 100000
+}

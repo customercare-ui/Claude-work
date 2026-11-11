@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "My walls are not peeling and there is no function coming up, so I would not book a repaint this month just because I saw an ad. Also, I live in a flat in Kakkanad, so the outside is the association's job and I do not want to pay a package price that includes exterior work I cannot use.",
+  "objection": "These crews start, then vanish for a week to another site. My building only lets contractors in during fixed hours, so I doubt they can really finish on the date they promise, and the ad says nothing about what happens to me if they miss it.",
+  "would_change_my_mind": "A written finish date with money back for every day they run late, a crew that confirms it will work within my building's contractor hours, and a lower interior-only price for a flat.",
+  "price_too_cheap": 30000,
+  "price_cheap": 50000,
+  "price_expensive": 80000,
+  "price_too_expensive": 110000
+}

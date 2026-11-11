@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Yes, the house is due, six years is long enough, but I will simply call our painter. He has done our homes for years, he turns up, and he picks the paint. The money does not matter to me. I have no reason to hand my house to a crew I have never met.",
+  "objection": "These outfits send a crew that disappears halfway and leaves the house in a mess. A promise on a website does not tell me who will actually be standing in my hall, and with our own man I know exactly who to call.",
+  "would_change_my_mind": "If our painter were not available this season, or if he himself told me Turbolux paint is better and he would use it, I would go with his suggestion.",
+  "price_too_cheap": 40000,
+  "price_cheap": 60000,
+  "price_expensive": 150000,
+  "price_too_expensive": 250000
+}
