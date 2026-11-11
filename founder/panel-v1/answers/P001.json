@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "With the wedding coming I do need the house painted, and I will let them do a site visit, but only as one of my three quotes. Writing 'finishes by the agreed date' costs them nothing, and a fixed ₹78,000 with no room to bargain means I cannot check it against the per-square-foot rate my local contractor gives me.",
+  "reason_code": "trust",
+  "objection": "Every painting outfit promises a date, and then the crew vanishes for a week to another job halfway through. Nothing here says what happens to me if they miss the date before my relatives arrive.",
+  "would_change_my_mind": "A written penalty for every day they run late, taken off the bill, and the balance paid only after the work is finished and I have checked it, with the per-square-foot breakdown shown so I can compare.",
+  "price_too_cheap": 35000,
+  "price_cheap": 55000,
+  "price_expensive": 75000,
+  "price_too_expensive": 95000
+}

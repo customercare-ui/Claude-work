@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I have never heard of Turbolux, and my house is an independent house with damp patches on the outside walls, not a flat. I would not trust a fixed package price for it until I have two quotes from the big brands to compare against. A fixed ₹78,000 with no per-square-foot breakdown and nothing about waterproofing is not something I would book this week.",
+  "objection": "Is Turbolux paint really as good as Asian Paints or Berger, and will it stop the damp coming back? The guarantee only talks about bubbling and peeling, and it says nothing about the damp patches, which are my real problem.",
+  "would_change_my_mind": "A site visit that gives a per-square-foot quote for my actual house, with damp-proofing of the outside walls included, priced below what the big-brand contractors quote me and backed by a written guarantee of several years against damp and peeling.",
+  "price_too_cheap": 45000,
+  "price_cheap": 60000,
+  "price_expensive": 80000,
+  "price_too_expensive": 100000
+}

@@ -2,12 +2,12 @@
   "id": "P009",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "timing",
-  "reason": "My walls are not peeling yet, so I am not spending more than a month's salary on painting this month. And I live in a flat, the outside is the association's job, so half of this package is no use to me anyway.",
-  "objection": "Once they take the money, will Turbolux's own people still pick up the phone, or will some subcontractor crew turn up, clash with our building's contractor hours, miss the date and then stop answering when there is a problem?",
-  "would_change_my_mind": "An interior-only flat price, with one named Turbolux person I can call who answers, and a crew that works within our building's contractor hours, offered when damp patches actually show up.",
-  "price_too_cheap": 25000,
-  "price_cheap": 40000,
-  "price_expensive": 60000,
-  "price_too_expensive": 80000
+  "reason_code": "habit",
+  "reason": "The walls look tired after the monsoon, but nothing is peeling yet, and I don't repaint until I have to. ₹59,000 is close to a month's salary, and our local painter would do the flat for much less.",
+  "objection": "A big brand name doesn't tell me who will actually be on my walls. If it is a subcontracted crew and something goes wrong after I've paid, will that coordinator still pick up my calls?",
+  "would_change_my_mind": "If damp patches or peeling actually show up, or we have a function at home coming up, I would book the free site visit and compare their written price against my painter's.",
+  "price_too_cheap": 20000,
+  "price_cheap": 32000,
+  "price_expensive": 45000,
+  "price_too_expensive": 65000
 }

@@ -30,6 +30,14 @@
     {
       "label": "Payment fees, mostly UPI, ~1% (ESTIMATE)",
       "cost": 890
+    },
+    {
+      "label": "Late-day credit, expected cost (ESTIMATE: 20% of jobs late by 2 days x Rs 2,000)",
+      "cost": 800
+    },
+    {
+      "label": "Next-monsoon check visit and touch-up (ESTIMATE)",
+      "cost": 800
     }
   ],
   "fixed_monthly": [
