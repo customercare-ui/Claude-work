@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I like that someone else handles everything and works within the building's hours, but I only need a few walls redone after the monsoon, not the whole flat. ₹59,000 is a whole-flat price, and I'm not paying for rooms that don't need paint.",
+  "objection": "It's a full-flat package. Nothing here says they'll take a job that's just a few damp or peeling walls, so I'd be paying for work I don't need.",
+  "would_change_my_mind": "A fixed written price for just the walls I need, with the same coordinator, signed finish date, pay-after-checking and 3-year guarantee.",
+  "price_too_cheap": 30000,
+  "price_cheap": 45000,
+  "price_expensive": 70000,
+  "price_too_expensive": 90000
+}
