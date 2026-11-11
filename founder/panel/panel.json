@@ -1,0 +1,103 @@
+{
+ "n": 20,
+ "seed": 2611,
+ "customer": {
+  "business": "Turbolux Home Finish: a fixed-price 2BHK paint + painter package from Turbolux Paints, Kochi pilot",
+  "target": "Kochi homeowners with a 2BHK flat or house that is due for a repaint after the monsoon (all money in this brief is in Indian rupees: read every $ as ₹)",
+  "where": "Kochi, Kerala, India",
+  "age": [
+   28,
+   66
+  ],
+  "segments": [
+   {
+    "name": "Salaried middle-class family",
+    "share": 0.4,
+    "income": [
+     600000,
+     1200000
+    ]
+   },
+   {
+    "name": "Upper-middle professional or business family",
+    "share": 0.3,
+    "income": [
+     1200000,
+     3000000
+    ]
+   },
+   {
+    "name": "Gulf-earning (NRI) household",
+    "share": 0.18,
+    "income": [
+     1500000,
+     4000000
+    ]
+   },
+   {
+    "name": "Retired couple on a pension",
+    "share": 0.12,
+    "income": [
+     400000,
+     900000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Uses the family's painter",
+    "share": 0.2,
+    "how": "Calls the same local painter the family has used for years and buys whatever paint he suggests."
+   },
+   {
+    "name": "Three quotes and haggles",
+    "share": 0.18,
+    "how": "Gets at least three quotes, compares per-square-foot rates and bargains hard."
+   },
+   {
+    "name": "Zero-hassle",
+    "share": 0.18,
+    "how": "Busy with work and family; pays more to not manage workers, materials and dates."
+   },
+   {
+    "name": "Brand-loyal",
+    "share": 0.12,
+    "how": "Trusts only the paint brands they see on TV and asks for them by name."
+   },
+   {
+    "name": "Reads every review",
+    "share": 0.12,
+    "how": "Checks Google ratings, asks neighbours and WhatsApp groups before hiring anyone."
+   },
+   {
+    "name": "Managing from abroad",
+    "share": 0.1,
+    "how": "Owner works in the Gulf; parents or a relative live in the house and have to supervise any work."
+   },
+   {
+    "name": "Waits until it is bad",
+    "share": 0.1,
+    "how": "Puts off repainting until damp patches, peeling or an upcoming function forces it."
+   }
+  ],
+  "objections": [
+   "₹78,000 is much more than our local painter would charge",
+   "I have not heard much about Turbolux; is it as good as the big brands?",
+   "Crews from these painting services stop turning up halfway; will this one really finish on the date?",
+   "Will they send some subcontractor and then stop answering when there is a problem?",
+   "Will the final bill be more than the quoted price once they see the walls?",
+   "What exactly does the guarantee cover, and for how long?",
+   "Our painter is someone we know; I don't want strangers in the house",
+   "I only need some walls done, not the whole house"
+  ],
+  "habits": [
+   "you live in a flat in Kakkanad and the building has strict working hours for contractors",
+   "you have an independent house in Edappally with damp patches on the outside walls",
+   "a family wedding is coming up in a few months and relatives will visit",
+   "you last repainted about six years ago",
+   "your elderly parents live in the house while you work in Dubai",
+   "you saw paint bubbling on one bedroom wall after this monsoon"
+  ]
+ },
+ "pitch": "Turbolux Home Finish, from Turbolux Paints, a Kerala paint brand. Now in Kochi.\nYour 2BHK repainted by a Turbolux-certified crew with Turbolux paint and full surface preparation. Independent house, inside and outside: ₹89,000. Flat, inside only, done within your building's working hours: ₹59,000. Prices include GST.\nAt the free site visit you get a written final price with a per-square-foot breakdown and a signed finish date. If we finish late, ₹2,000 comes off your bill for every day late.\nYou pay 30% to book and the rest only after you have checked the finished work. One named Turbolux coordinator takes your calls and sends daily photo updates on WhatsApp.\nEvery wall we paint is guaranteed for 3 years against bubbling and peeling: we repaint it free, paint and labour. Founding homes: the first 10 Kochi bookings before 31 January 2027 get ₹10,000 off if two future buyers may visit the finished home.\nAll prices are in Indian rupees (₹)."
+}

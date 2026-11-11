@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "The bedroom wall is bubbling, so the house has to be done before next monsoon anyway. One company with a written price, a signed finish date, one person to call and the balance paid only after I check the work means I don't have to chase painters myself, so I would book the free visit and pay the 30% if the visit checks out.",
+  "objection": "Bubbling usually means damp is getting into the wall. If the 3-year guarantee only covers the paint and they call any return of the bubbling a leak or seepage problem, then the guarantee is useless for the exact wall I'm worried about.",
+  "would_change_my_mind": "If at the site visit they will not put in writing that the bubbling bedroom wall is covered by the 3-year guarantee, or they leave damp and seepage out of it, I won't book.",
+  "price_too_cheap": 40000,
+  "price_cheap": 65000,
+  "price_expensive": 105000,
+  "price_too_expensive": 130000
+}

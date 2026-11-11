@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "The WhatsApp photos and paying the balance only after the work is checked do suit me, since I am in Dubai and my parents are at home. But ₹89,000 is more than a month of my pay, and our local painter will do the house for far less. I would book the free site visit as one of my three quotes, compare the per-square-foot rate and push them down, not sign this month.",
+  "objection": "I am paying a big premium for the brand name. I can't see why the same 2BHK costs ₹25,000-30,000 more than my local painter when he also scrapes and puts putty before he paints.",
+  "would_change_my_mind": "If the written quote from the site visit comes within about 10% of my best local quote on a per-square-foot basis, with the 3-year guarantee and the late-day penalty still included, I would book it, because then I am not paying extra for someone to watch the job while I am away.",
+  "price_too_cheap": 35000,
+  "price_cheap": 55000,
+  "price_expensive": 70000,
+  "price_too_expensive": 85000
+}

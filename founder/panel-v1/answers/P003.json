@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "₹78,000 is close to a month's salary for me. I won't book from an ad that says 'guaranteed' without saying for how long or what it covers. At best Turbolux becomes one of my three quotes, and a fixed price with no per-square-foot breakdown means I can't compare it with the others or bargain it down.",
+  "objection": "What exactly does the guarantee against bubbling and peeling cover, and for how long? One year is worth nothing after a Kochi monsoon. And who pays for re-doing it, the crew or me?",
+  "would_change_my_mind": "A written guarantee of at least 3 years that covers labour and paint for bubbling, peeling and dampness patches. With that, if the site visit gives me a square-foot breakdown that comes in under my other two quotes, I'd book.",
+  "price_too_cheap": 40000,
+  "price_cheap": 60000,
+  "price_expensive": 85000,
+  "price_too_expensive": 100000
+}

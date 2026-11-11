@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "The house is due after six years, but I will just call our painter like we always do. He has done our walls for years, he picks the paint, and I have never had to chase him, so I have no reason to bring in a company crew I don't know.",
+  "objection": "These painting services send crews who disappear halfway. A signed date and ₹2,000 a day off is nice on paper, but I would still be the one living with a half-painted house and arguing over the bill, while my own painter simply turns up.",
+  "would_change_my_mind": "If our painter could not take the job this season, or if a neighbour I know had their house done by them on the date they promised.",
+  "price_too_cheap": 45000,
+  "price_cheap": 65000,
+  "price_expensive": 95000,
+  "price_too_expensive": 120000
+}

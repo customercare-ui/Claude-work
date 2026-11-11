@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Ada",
+  "age": 59,
+  "segment": "Upper-middle professional or business family",
+  "income": 1939000,
+  "behaviour": "Three quotes and haggles",
+  "behaviour_how": "Gets at least three quotes, compares per-square-foot rates and bargains hard.",
+  "objection": "Crews from these painting services stop turning up halfway; will this one really finish on the date?",
+  "habit": "a family wedding is coming up in a few months and relatives will visit"
+ },
+ {
+  "id": "P002",
+  "name": "Talia",
+  "age": 41,
+  "segment": "Gulf-earning (NRI) household",
+  "income": 2986000,
+  "behaviour": "Three quotes and haggles",
+  "behaviour_how": "Gets at least three quotes, compares per-square-foot rates and bargains hard.",
+  "objection": "I have not heard much about Turbolux; is it as good as the big brands?",
+  "habit": "you have an independent house in Edappally with damp patches on the outside walls"
+ },
+ {
+  "id": "P003",
+  "name": "Levi",
+  "age": 33,
+  "segment": "Salaried middle-class family",
+  "income": 1010000,
+  "behaviour": "Three quotes and haggles",
+  "behaviour_how": "Gets at least three quotes, compares per-square-foot rates and bargains hard.",
+  "objection": "What exactly does the guarantee cover, and for how long?",
+  "habit": "you last repainted about six years ago"
+ },
+ {
+  "id": "P004",
+  "name": "Raj",
+  "age": 43,
+  "segment": "Gulf-earning (NRI) household",
+  "income": 3872000,
+  "behaviour": "Reads every review",
+  "behaviour_how": "Checks Google ratings, asks neighbours and WhatsApp groups before hiring anyone.",
+  "objection": "What exactly does the guarantee cover, and for how long?",
+  "habit": "a family wedding is coming up in a few months and relatives will visit"
+ },
+ {
+  "id": "P005",
+  "name": "Min",
+  "age": 55,
+  "segment": "Retired couple on a pension",
+  "income": 529000,
+  "behaviour": "Zero-hassle",
+  "behaviour_how": "Busy with work and family; pays more to not manage workers, materials and dates.",
+  "objection": "Crews from these painting services stop turning up halfway; will this one really finish on the date?",
+  "habit": "you last repainted about six years ago"
+ },
+ {
+  "id": "P006",
+  "name": "Fatima",
+  "age": 30,
+  "segment": "Retired couple on a pension",
+  "income": 767000,
+  "behaviour": "Brand-loyal",
+  "behaviour_how": "Trusts only the paint brands they see on TV and asks for them by name.",
+  "objection": "Will the final bill be more than the quoted price once they see the walls?",
+  "habit": "you last repainted about six years ago"
+ },
+ {
+  "id": "P007",
+  "name": "Priya",
+  "age": 66,
+  "segment": "Salaried middle-class family",
+  "income": 1118000,
+  "behaviour": "Uses the family's painter",
+  "behaviour_how": "Calls the same local painter the family has used for years and buys whatever paint he suggests.",
+  "objection": "What exactly does the guarantee cover, and for how long?",
+  "habit": "your elderly parents live in the house while you work in Dubai"
+ },
+ {
+  "id": "P008",
+  "name": "Sofia",
+  "age": 59,
+  "segment": "Upper-middle professional or business family",
+  "income": 2347000,
+  "behaviour": "Uses the family's painter",
+  "behaviour_how": "Calls the same local painter the family has used for years and buys whatever paint he suggests.",
+  "objection": "Crews from these painting services stop turning up halfway; will this one really finish on the date?",
+  "habit": "you last repainted about six years ago"
+ },
+ {
+  "id": "P009",
+  "name": "Olivia",
+  "age": 60,
+  "segment": "Salaried middle-class family",
+  "income": 739000,
+  "behaviour": "Waits until it is bad",
+  "behaviour_how": "Puts off repainting until damp patches, peeling or an upcoming function forces it.",
+  "objection": "Will they send some subcontractor and then stop answering when there is a problem?",
+  "habit": "you live in a flat in Kakkanad and the building has strict working hours for contractors"
+ },
+ {
+  "id": "P010",
+  "name": "Aria",
+  "age": 64,
+  "segment": "Salaried middle-class family",
+  "income": 1125000,
+  "behaviour": "Zero-hassle",
+  "behaviour_how": "Busy with work and family; pays more to not manage workers, materials and dates.",
+  "objection": "What exactly does the guarantee cover, and for how long?",
+  "habit": "you saw paint bubbling on one bedroom wall after this monsoon"
+ },
+ {
+  "id": "P011",
+  "name": "Darius",
+  "age": 43,
+  "segment": "Salaried middle-class family",
+  "income": 1159000,
+  "behaviour": "Zero-hassle",
+  "behaviour_how": "Busy with work and family; pays more to not manage workers, materials and dates.",
+  "objection": "Crews from these painting services stop turning up halfway; will this one really finish on the date?",
+  "habit": "a family wedding is coming up in a few months and relatives will visit"
+ },
+ {
+  "id": "P012",
+  "name": "Malik",
+  "age": 44,
+  "segment": "Salaried middle-class family",
+  "income": 997000,
+  "behaviour": "Three quotes and haggles",
+  "behaviour_how": "Gets at least three quotes, compares per-square-foot rates and bargains hard.",
+  "objection": "₹78,000 is much more than our local painter would charge",
+  "habit": "your elderly parents live in the house while you work in Dubai"
+ },
+ {
+  "id": "P013",
+  "name": "Sienna",
+  "age": 35,
+  "segment": "Salaried middle-class family",
+  "income": 902000,
+  "behaviour": "Managing from abroad",
+  "behaviour_how": "Owner works in the Gulf; parents or a relative live in the house and have to supervise any work.",
+  "objection": "I only need some walls done, not the whole house",
+  "habit": "a family wedding is coming up in a few months and relatives will visit"
+ },
+ {
+  "id": "P014",
+  "name": "Adrian",
+  "age": 34,
+  "segment": "Gulf-earning (NRI) household",
+  "income": 3300000,
+  "behaviour": "Uses the family's painter",
+  "behaviour_how": "Calls the same local painter the family has used for years and buys whatever paint he suggests.",
+  "objection": "I have not heard much about Turbolux; is it as good as the big brands?",
+  "habit": "a family wedding is coming up in a few months and relatives will visit"
+ },
+ {
+  "id": "P015",
+  "name": "Cole",
+  "age": 61,
+  "segment": "Upper-middle professional or business family",
+  "income": 2425000,
+  "behaviour": "Waits until it is bad",
+  "behaviour_how": "Puts off repainting until damp patches, peeling or an upcoming function forces it.",
+  "objection": "Crews from these painting services stop turning up halfway; will this one really finish on the date?",
+  "habit": "you live in a flat in Kakkanad and the building has strict working hours for contractors"
+ },
+ {
+  "id": "P016",
+  "name": "Ravi",
+  "age": 49,
+  "segment": "Gulf-earning (NRI) household",
+  "income": 2484000,
+  "behaviour": "Zero-hassle",
+  "behaviour_how": "Busy with work and family; pays more to not manage workers, materials and dates.",
+  "objection": "I only need some walls done, not the whole house",
+  "habit": "you live in a flat in Kakkanad and the building has strict working hours for contractors"
+ },
+ {
+  "id": "P017",
+  "name": "Nadia",
+  "age": 59,
+  "segment": "Upper-middle professional or business family",
+  "income": 2090000,
+  "behaviour": "Reads every review",
+  "behaviour_how": "Checks Google ratings, asks neighbours and WhatsApp groups before hiring anyone.",
+  "objection": "Crews from these painting services stop turning up halfway; will this one really finish on the date?",
+  "habit": "you saw paint bubbling on one bedroom wall after this monsoon"
+ },
+ {
+  "id": "P018",
+  "name": "Tariq",
+  "age": 48,
+  "segment": "Salaried middle-class family",
+  "income": 1138000,
+  "behaviour": "Uses the family's painter",
+  "behaviour_how": "Calls the same local painter the family has used for years and buys whatever paint he suggests.",
+  "objection": "I have not heard much about Turbolux; is it as good as the big brands?",
+  "habit": "you saw paint bubbling on one bedroom wall after this monsoon"
+ },
+ {
+  "id": "P019",
+  "name": "Theo",
+  "age": 31,
+  "segment": "Upper-middle professional or business family",
+  "income": 2220000,
+  "behaviour": "Managing from abroad",
+  "behaviour_how": "Owner works in the Gulf; parents or a relative live in the house and have to supervise any work.",
+  "objection": "Crews from these painting services stop turning up halfway; will this one really finish on the date?",
+  "habit": "your elderly parents live in the house while you work in Dubai"
+ },
+ {
+  "id": "P020",
+  "name": "Ezra",
+  "age": 40,
+  "segment": "Upper-middle professional or business family",
+  "income": 2004000,
+  "behaviour": "Brand-loyal",
+  "behaviour_how": "Trusts only the paint brands they see on TV and asks for them by name.",
+  "objection": "Will they send some subcontractor and then stop answering when there is a problem?",
+  "habit": "you live in a flat in Kakkanad and the building has strict working hours for contractors"
+ }
+]

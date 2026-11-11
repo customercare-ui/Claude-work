@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "The walls in my flat look a bit tired but nothing is peeling yet and no function is coming up, so I would not book this month. The signed date and paying the balance after I check is better than what I usually hear, but I repaint when something forces me to.",
+  "objection": "Turbolux is new to running crews in Kochi. ₹2,000 a day off is nothing next to the trouble of a half-finished flat with furniture piled up and the association complaining about contractor hours. I want to see they actually finish on the date.",
+  "would_change_my_mind": "A damp patch showing up or a family function on the calendar, plus a Kakkanad flat owner I can call who says their crew finished on the signed date.",
+  "price_too_cheap": 25000,
+  "price_cheap": 40000,
+  "price_expensive": 65000,
+  "price_too_expensive": 85000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "The wedding is a few months away and the house has to look right before relatives arrive, and I have no time to chase a local contractor, buy paint and argue about dates. With one fixed price, a paint company's name behind the crew and a finish date agreed before they start, I'd book the site visit and go ahead if the date works.",
+  "objection": "They say the crew will finish by the agreed date, but nothing says what happens if they don't. If they walk off halfway with the wedding two weeks out, a peeling guarantee is no help to me.",
+  "would_change_my_mind": "If the site visit can't give me a finish date well before the wedding, or they won't put the date and some compensation for missing it in writing, I'd go back to a contractor I know through relatives.",
+  "price_too_cheap": 40000,
+  "price_cheap": 60000,
+  "price_expensive": 95000,
+  "price_too_expensive": 120000
+}

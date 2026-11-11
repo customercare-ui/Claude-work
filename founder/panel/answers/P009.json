@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "The walls look tired after the monsoon, but nothing is peeling yet, and I don't repaint until I have to. ₹59,000 is close to a month's salary, and our local painter would do the flat for much less.",
+  "objection": "A big brand name doesn't tell me who will actually be on my walls. If it is a subcontracted crew and something goes wrong after I've paid, will that coordinator still pick up my calls?",
+  "would_change_my_mind": "If damp patches or peeling actually show up, or we have a function at home coming up, I would book the free site visit and compare their written price against my painter's.",
+  "price_too_cheap": 20000,
+  "price_cheap": 32000,
+  "price_expensive": 45000,
+  "price_too_expensive": 65000
+}

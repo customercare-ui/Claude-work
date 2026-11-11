@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "The house is due, so I'd take the free site visit, but only as one of my three quotes. ₹89,000 is a fixed package price with nothing to bargain on, and I'm not booking anything until I've compared their per-square-foot rate with two local contractors and pushed everyone down.",
+  "objection": "The guarantee only covers bubbling and peeling for 3 years. In Kochi it's the monsoon dampness, fungus and fading on the outside walls that ruin paint, and I don't see any of that covered. Three years also feels short for exterior work, and I don't know Turbolux paint as well as the big brands.",
+  "would_change_my_mind": "If the per-square-foot rate in the written quote came in level with the cheapest of my other two quotes, then pay-after-checking and the late-day penalty would tip it to them.",
+  "price_too_cheap": 45000,
+  "price_cheap": 65000,
+  "price_expensive": 85000,
+  "price_too_expensive": 100000
+}
